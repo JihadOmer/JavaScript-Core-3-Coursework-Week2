@@ -1,0 +1,22 @@
+
+* {
+   box-sizing: border-box;
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+   background-color: #f0f0f0;
+   color: #333;
+}
+#main {
+   width: 100%;
+   max-width: 800px;
+   margin: 0 auto;
+   padding: 0 20px;
+}
+
+#img {
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: cover;
+}
